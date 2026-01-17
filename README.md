@@ -2,33 +2,10 @@
   <img src="https://raw.githubusercontent.com/ayoub21dev/ayoub21dev/main/github_profile_banner.png" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ayoub Jalyta</h1>
-<h3 align="center">A passionate Full-Stack Developer from Tanger, Morocco</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Laravel+%2F+PHP+Expert;Backend+Automations;System+Utility+Developer;Always+Building+Something+Cool" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi</h1>
 
 ---
 
-### 🧐 About Me
-- 🔭 I’m currently working on high-performance web applications using **Laravel**.
-- 🛠 Over **480+ contributions** in the last year, with a strong focus on PHP and Shell scripting.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayoub-jalyta/) (Add your link here)
-- ⚡ Fun fact: I love building utility tools like `iOS-Bypass-Tool`.
-
----
-
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
 
 ---
 
