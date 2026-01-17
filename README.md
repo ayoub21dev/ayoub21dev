@@ -1,11 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayoub21dev/ayoub21dev/main/github_profile_banner.png" width="100%" />
-</p>
 
 <h1 align="center">Hi</h1>
-
----
-
 
 ---
 
