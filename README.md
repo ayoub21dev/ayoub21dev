@@ -6,11 +6,6 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayoub21dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub21dev&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub21dev&theme=tokyonight" />
 </p>
 
