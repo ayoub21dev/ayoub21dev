@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/ayoub21dev"><img src="https://img.shields.io/badge/GitHub-ayoub21dev-181717?style=for-the-badge&logo=github" alt="GitHub Badge" /></a>
   <img src="https://img.shields.io/badge/Status-Available%20for%20Collabs-00C853?style=for-the-badge" alt="Status Badge" />
-  <img src="https://img.shields.io/badge/Focus-Beautiful%20UI%20%26%20UX-5B3DF5?style=for-the-badge" alt="Focus Badge" />
+
 </p>
 
 <p align="center">
